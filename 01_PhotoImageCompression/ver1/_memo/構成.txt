@@ -1,0 +1,20 @@
+○フォルダ構成
+　┗　_venv　#仮想環境
+　┗　_code　　
+　　┗　Application.py　#pyコード
+　┗　_docs
+　　┗　RefereceData.csv　#リファレンスファイル
+　┗　_memo　#仮想環境
+　　┗　構成.txt　#構成
+
+
+○仮想環境　ライブラリ一覧
+◆インストール
+chardet
+pandas
+pillow
+◆標準
+os
+tkinter
+math
+io
