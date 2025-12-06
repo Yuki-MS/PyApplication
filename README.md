@@ -1,2 +1,2 @@
-# Temporary
+# PyApplication
 アプリ保管用
